@@ -1,0 +1,5 @@
+INDEX VERSION 1.131
+/Users/lee/eclipse-workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/4254371347.index
+/Day02/src
+/Users/lee/eclipse-workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1714537084.index
+/Day03/src
